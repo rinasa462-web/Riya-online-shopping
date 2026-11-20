@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Campus News</h1>
+    <h2>Students Build Their First Websites</h2>
+    <p>This work CoSc 3081 write <mark>HTML</mark> for the first time, <q>It was easier than expected</q>, said one student. The <abbr title="World Health Organization">WHO</abbr> ...</p>
+
+    <p><strong>Important:</strong> the deadline has changed from <del>Monday</del> to <ins>Friday</ins></p>
+    <p><address>Contact: elu@gmail.com</address></p>
+</body>
+</html>
+Name-article.html

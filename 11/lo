@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html Texts</title>
+</head>
+<body>
+    
+    <h1>Welcome to my website</h1>
+    <h2>about me</h2>
+    <h3> My interests</h3>
+   
+    <p> Lorem <br> ipsum dolor sit amet consectetur adipisicing elit. Ab porro numquam earum, recusandae dolore exercitationem ad voluptates repudiandae sunt. Quae, accusantium nemo. Quas asperiores cum dicta voluptatum provident corporis sunt?</p>
+    <hr> 
+ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur, sapiente nihil? Fugit alias magnam provident hic necessitatibus? Natus ex, repellat aut deleniti consequatur incidunt, autem excepturi enim ipsam atque illo.
+    <pre> This is a preformatted text block
+ </pre>
+ <p>
+    <strong>this is a paragraph</strong> <br>
+    <em>this is notice</em>
+    <p>
+        price:<del > 500 Birr</del> <br>
+        price:<ins> 300 Birr</ins>
+        <br> water is H <sub >2</sub>O 
+        
+    </p>
+</p>
+</body>
+</html>
+Name-place.html
